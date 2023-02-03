@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost';
-$username = 'id20241002_root';
-$password = '42{h]E~|+WW49~#O';
-$database = 'id20241002_db_barangay';
+$host = 'us-cdbr-east-06.cleardb.net';
+$username = 'bfa9efd9433ac0';
+$password = '55c2f06a';
+$database = 'heroku_b1e9a922942f4e6';
 
 // Connect to database using mysqli extension
 $conn = mysqli_connect($host, $username, $password, $database);
